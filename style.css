@@ -1,0 +1,14 @@
+#container {
+    background-color: darkseagreen;
+    height: auto;
+    width: 400px;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.new-div {
+    background-color: lightgray;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
